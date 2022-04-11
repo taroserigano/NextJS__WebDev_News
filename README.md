@@ -1,6 +1,4 @@
-# Next.js Crash Course Project
-
-Project from my Next.js crash course on YouTube
+# Next.js 
 
 ### Run the development server:
 
